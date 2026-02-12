@@ -28,14 +28,84 @@ User Query
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend:** Streamlit  
-**Backend:** Python  
-**LLM:** Google Gemini API  
-**Vector Database:** FAISS  
-**Embeddings:** Sentence Transformers / Gemini Embeddings  
-**Deployment:** Gunicorn + Render  
+### 🔹 Programming Language
+- Python 3.11
+
+---
+
+### 🔹 Frontend
+- Streamlit (Interactive Web Application Framework)
+- Custom CSS (Glassmorphism UI + Gradient Styling)
+
+---
+
+### 🔹 Backend & Application Logic
+- Python
+- Modular Architecture (app.py, rag_engine.py, gemini_handler.py)
+
+---
+
+### 🔹 Generative AI / LLM
+- Google Gemini API (via Google AI Studio)
+- Prompt Engineering
+- Contextual Response Generation
+
+---
+
+### 🔹 Retrieval-Augmented Generation (RAG)
+- Text Chunking & Preprocessing
+- Semantic Embeddings
+- Context Retrieval Pipeline
+
+---
+
+### 🔹 Embeddings & NLP
+- Sentence Transformers
+- Vector Representation of Text
+- Semantic Similarity Search
+
+---
+
+### 🔹 Vector Database
+- FAISS (Facebook AI Similarity Search)
+- Dense Vector Indexing
+- Cosine Similarity Search
+
+---
+
+### 🔹 Data Processing
+- NumPy
+- Pandas
+- PyPDF2 (PDF Text Extraction)
+
+---
+
+### 🔹 Environment & Configuration
+- python-dotenv
+- Environment Variables (GOOGLE_API_KEY)
+
+---
+
+### 🔹 Deployment
+- Render (Web Service Deployment)
+- Streamlit Community Cloud (Alternative Deployment)
+- HuggingFace Spaces (AI Hosting Option)
+
+---
+
+### 🔹 Version Control
+- Git
+- GitHub
+
+---
+
+### 🔹 Architecture Pattern
+- Retrieval-Augmented Generation (RAG)
+- Modular AI Application Design
+- API-Driven LLM Integration
+ 
 
 ---
 
