@@ -49,3 +49,5 @@ User Query
 - Session-based chat memory
 - Enterprise-ready modular architecture
 - Modern glassmorphism UI
+
+Deployed- https://89ckfs8ppob5xsjmku5uda.streamlit.app/
