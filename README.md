@@ -43,13 +43,12 @@ User Query
 
 ### 🔹 Backend & Application Logic
 - Python
-- Modular Architecture (app.py, rag_engine.py, gemini_handler.py)
+- Modular Architecture 
 
 ---
 
 ### 🔹 Generative AI / LLM
 - Google Gemini API (via Google AI Studio)
-- Prompt Engineering
 - Contextual Response Generation
 
 ---
